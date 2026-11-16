@@ -2,7 +2,7 @@
 
 **Know what to wear from the clothes you already own, based on the weather and how you feel in it.**
 
-Group project for **IE 590 Technical Product Management** (Purdue, Fall 2026), taken through three stages: market study, business case, and an engineering handoff with a launch plan. ClosetCast is a concept app. Every forward-looking figure below is a planning assumption, not a measured result.
+Group project for **IE 590 Technical Product Management** (Purdue, Fall 2026), taken through three stages: market study, business case, and an engineering handoff with a launch plan. ClosetCast is a concept app. Every forward-looking figure below is a planning assumption, not a measured result. Team: Ranganath Ravichandran, Ritu Munshi, Prerana Rajeshvar Kharat, Tsu-Chieh Weng and Adharsh Rajasekar.
 
 ## The product
 
